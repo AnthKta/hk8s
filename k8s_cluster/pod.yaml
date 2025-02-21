@@ -1,0 +1,12 @@
+apiVersion: v1  
+kind: Pod  
+metadata:  
+  name: root-user
+spec:  
+  containers:
+  ...
+  securityContext:  
+    #root user:
+    runAsUser: 0
+    #non-root user:
+    runAsUser: 5554
