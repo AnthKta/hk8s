@@ -1,0 +1,12 @@
+/home/antkta/Documents/hk8s/target/debug/deps/libasync_trait-455ef2c99d4e0357.so: /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/lib.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/args.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/bound.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/expand.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/lifetime.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/parse.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/receiver.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/verbatim.rs
+
+/home/antkta/Documents/hk8s/target/debug/deps/async_trait-455ef2c99d4e0357.d: /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/lib.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/args.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/bound.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/expand.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/lifetime.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/parse.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/receiver.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/verbatim.rs
+
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/lib.rs:
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/args.rs:
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/bound.rs:
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/expand.rs:
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/lifetime.rs:
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/parse.rs:
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/receiver.rs:
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.87/src/verbatim.rs:
