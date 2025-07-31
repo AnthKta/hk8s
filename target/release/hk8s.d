@@ -1,0 +1,1 @@
+/home/antkta/Documents/hk8s/target/release/hk8s: /home/antkta/Documents/hk8s/src/checks.rs /home/antkta/Documents/hk8s/src/lib.rs /home/antkta/Documents/hk8s/src/main.rs /home/antkta/Documents/hk8s/src/monitor.rs

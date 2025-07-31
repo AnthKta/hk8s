@@ -1,0 +1,8 @@
+C:\Users\Anthony\hk8s\target\debug\deps\libzeroize-276fe281e7b15a85.rmeta: C:\Users\Anthony\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.8.1\src\lib.rs C:\Users\Anthony\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.8.1\src\x86.rs
+
+C:\Users\Anthony\hk8s\target\debug\deps\libzeroize-276fe281e7b15a85.rlib: C:\Users\Anthony\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.8.1\src\lib.rs C:\Users\Anthony\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.8.1\src\x86.rs
+
+C:\Users\Anthony\hk8s\target\debug\deps\zeroize-276fe281e7b15a85.d: C:\Users\Anthony\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.8.1\src\lib.rs C:\Users\Anthony\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.8.1\src\x86.rs
+
+C:\Users\Anthony\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.8.1\src\lib.rs:
+C:\Users\Anthony\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.8.1\src\x86.rs:

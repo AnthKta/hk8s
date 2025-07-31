@@ -1,0 +1,11 @@
+/home/antkta/Documents/hk8s/target/release/deps/libhyper_rustls-b97bc881347348c6.rmeta: /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.27.5/src/lib.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.27.5/src/config.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.27.5/src/connector.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.27.5/src/connector/builder.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.27.5/src/stream.rs
+
+/home/antkta/Documents/hk8s/target/release/deps/libhyper_rustls-b97bc881347348c6.rlib: /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.27.5/src/lib.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.27.5/src/config.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.27.5/src/connector.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.27.5/src/connector/builder.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.27.5/src/stream.rs
+
+/home/antkta/Documents/hk8s/target/release/deps/hyper_rustls-b97bc881347348c6.d: /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.27.5/src/lib.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.27.5/src/config.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.27.5/src/connector.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.27.5/src/connector/builder.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.27.5/src/stream.rs
+
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.27.5/src/lib.rs:
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.27.5/src/config.rs:
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.27.5/src/connector.rs:
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.27.5/src/connector/builder.rs:
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.27.5/src/stream.rs:

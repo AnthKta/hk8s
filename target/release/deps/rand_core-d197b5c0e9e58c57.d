@@ -1,0 +1,12 @@
+/home/antkta/Documents/hk8s/target/release/deps/librand_core-d197b5c0e9e58c57.rmeta: /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/lib.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/block.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/error.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/impls.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/le.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/os.rs
+
+/home/antkta/Documents/hk8s/target/release/deps/librand_core-d197b5c0e9e58c57.rlib: /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/lib.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/block.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/error.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/impls.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/le.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/os.rs
+
+/home/antkta/Documents/hk8s/target/release/deps/rand_core-d197b5c0e9e58c57.d: /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/lib.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/block.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/error.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/impls.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/le.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/os.rs
+
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/lib.rs:
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/block.rs:
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/error.rs:
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/impls.rs:
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/le.rs:
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/os.rs:

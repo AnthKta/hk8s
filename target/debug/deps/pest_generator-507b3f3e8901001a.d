@@ -1,0 +1,11 @@
+/home/antkta/Documents/hk8s/target/debug/deps/libpest_generator-507b3f3e8901001a.rmeta: /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.15/src/lib.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.15/src/macros.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.15/src/docs.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.15/src/generator.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.15/src/parse_derive.rs
+
+/home/antkta/Documents/hk8s/target/debug/deps/libpest_generator-507b3f3e8901001a.rlib: /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.15/src/lib.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.15/src/macros.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.15/src/docs.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.15/src/generator.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.15/src/parse_derive.rs
+
+/home/antkta/Documents/hk8s/target/debug/deps/pest_generator-507b3f3e8901001a.d: /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.15/src/lib.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.15/src/macros.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.15/src/docs.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.15/src/generator.rs /home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.15/src/parse_derive.rs
+
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.15/src/lib.rs:
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.15/src/macros.rs:
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.15/src/docs.rs:
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.15/src/generator.rs:
+/home/antkta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.15/src/parse_derive.rs:
